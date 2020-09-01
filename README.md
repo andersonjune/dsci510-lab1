@@ -6,4 +6,4 @@ Ways to invoke file lab1.py:
 3. Copy the path of lab1.py. 
 4. Type python+space+path of the file. 
 5. Then you can command this file.
-The picture, when successful, should be like this.
+The picture, when successful, should be like this: 
